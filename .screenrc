@@ -1,0 +1,7 @@
+escape ^Jj
+altscreen on
+defscrollback 10000
+bindkey ^[[1;5B focus down
+bindkey ^[[1;5A focus up
+bindkey ^[[1;5D focus left
+bindkey ^[[1;5C focus right
